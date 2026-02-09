@@ -8,5 +8,5 @@
 ---
 
 ### 📈 Статистика (GitHub Stats)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ywxig&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ywxig&theme=radical)
 ---
